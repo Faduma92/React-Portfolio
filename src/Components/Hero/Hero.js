@@ -9,23 +9,23 @@ export default function Hero(props) {
 
     return (
         <>
-          <span className="site-blocks-cover overlay" style={heroImage}>
-      <span className="container">
-        <span className="row align-items-center justify-content-center">
+          <div className="site-blocks-cover overlay" style={heroImage}>
+      <div className="container">
+        <div className="row align-items-center justify-content-center">
 
-          <span className="col-md-12" data-aos="fade-up" data-aos-delay="400">
+          <div className="col-md-12" data-aos="fade-up" data-aos-delay="400">
                         
-            <span className="row mb-4">
-              <span className="col-md-7">
+            <div className="row mb-4">
+              <div className="col-md-7">
                 <h1>Hi there.</h1>
                 <p className="mb-5 lead">My name is Fatima Abdillahi. I help companies design, develop, and deliver the right app for their customer.</p>
                 
-              </span>
-            </span>
-          </span>
-        </span>
-      </span>
-    </span>    
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>    
         </>
     )
 }
