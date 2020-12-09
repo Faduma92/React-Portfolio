@@ -86,19 +86,15 @@ export default function Projects(props) {
           <div className="col-lg-4 col-md-6 mb-5">
             <div className="product-item">
               <figure>
-                <img src="images/quizss.png" alt="Image" className="img-fluid" />
+                <img src="images/ShopSmartSS.png" alt="Image" className="img-fluid" />
               </figure>
               <div className="px-4">
-                <h3><a href="#">Quiz Generator</a></h3>
+                <h3><a href="#">Shop Smart</a></h3>
      
-                <p className="mb-4">After clicking "Start Quiz", the user is presented with 1/5 questions and initializes timer to 30 seconds.
-                                    
-                  Score is calculated according to incorrect/correct answers. 
-                  
-                  Once the time runs out or the user has finished answering all the questions within 30 seconds, they are presented with their final score along with previous highscores.</p>
+                <p className="mb-4">Shop Smart is an online ecommerce platform for selling electronics, health and wellness, and beauty products.</p>
                 <div>
-                  <a href="https://github.com/Faduma92/First-Quiz-Game" className="btn btn-black mr-1 rounded-0">GitHub</a>
-                  <a href="https://faduma92.github.io/First-Quiz-Game/" className="btn btn-black btn-outline-black ml-1 rounded-0">View</a>
+                  <a href="https://github.com/Faduma92/ShopSmart" className="btn btn-black mr-1 rounded-0">GitHub</a>
+                  <a href="https://glacial-garden-86471.herokuapp.com/" className="btn btn-black btn-outline-black ml-1 rounded-0">View</a>
                 </div>
               </div>
             </div>
