@@ -60,11 +60,11 @@ export default function Contact(props) {
                 <div className="col-md-12">
                   <input type="submit" value="Send Message" className="btn btn-black rounded-0 py-3 px-4" />
                 </div>
-                <li style={{listStyle: "none"}}><a href="" className="uk-icon-button uk-margin-small-right" uk-icon="mail"></a>fatimabdillahi@gmail.com</li>
-                <li style={{listStyle: "none"}}><a href="" className="uk-icon-button uk-margin-small-right" uk-icon="receiver"></a>647-804-3745</li>
-                <li style={{listStyle: "none"}}><a href="https://github.com/Faduma92" className="uk-icon-button uk-margin-small-right" uk-icon="github"></a>Faduma92</li> 
-                <li style={{listStyle: "none"}}><a href="https://www.linkedin.com/in/fatima-abdillahi-0035111b7/" className="uk-icon-button  uk-margin-small-right" uk-icon="linkedin"></a>LinkedIn</li>
-                <li style={{listStyle: "none"}}><a href="https://docs.google.com/document/d/1VpVfUKwJKUwqLPQ_9iAzIyamjZMabq80xmrbiM7Itkc/edit" className="uk-icon-button  uk-margin-small-right" uk-icon="user"></a>Resume</li>
+                <li style={{listStyle: "none", fontSize: "15px"}}><a href="" className="uk-icon-button uk-margin-small-right" uk-icon="mail"></a>fatimabdillahi@gmail.com</li>
+                <li style={{listStyle: "none", fontSize: "14px"}}><a href="" className="uk-icon-button uk-margin-small-right" uk-icon="receiver"></a>647-804-3745</li>
+                <li style={{listStyle: "none", fontSize: "14px"}}><a href="https://github.com/Faduma92" className="uk-icon-button uk-margin-small-right" uk-icon="github"></a>Faduma92</li> 
+                <li style={{listStyle: "none", fontSize: "14px"}}><a href="https://www.linkedin.com/in/fatima-abdillahi-0035111b7/" className="uk-icon-button  uk-margin-small-right" uk-icon="linkedin"></a>LinkedIn</li>
+                <li style={{listStyle: "none", fontSize: "14px"}}><a href="https://docs.google.com/document/d/1VpVfUKwJKUwqLPQ_9iAzIyamjZMabq80xmrbiM7Itkc/edit" className="uk-icon-button  uk-margin-small-right" uk-icon="user"></a>Resume</li>
               </div>
 
   
